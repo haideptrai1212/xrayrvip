@@ -84,7 +84,7 @@ clone_node(){
  echo "---------- PUNPN. XYZ ----------"
  echo "--------- HANG A HAI ---------"
  echo "-------------------------------"
- echo "CHỌN GIAO THỨC CẦN CÀI  - 5GGIASINHVIEN.STORE -"
+ echo "CHỌN GIAO THỨC CẦN CÀI "
  echo "-------------------------------"
  echo "------------ DEV MOD -----------"
  echo -e "[1] Vmess"
